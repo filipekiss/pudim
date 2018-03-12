@@ -1,0 +1,9 @@
+{
+    "name": "pudim",
+    "version": "0.1.0",
+    "description": "The picture of a pudim",
+    "main": "pudim.jpg",
+    "repository": "github.com/filipekiss/pudim",
+    "author": "Filipe Kiss <eu@filipekiss.com.br>",
+    "license": "MIT"
+}
